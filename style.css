@@ -1,5 +1,6 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  /* Added font Baloo 2 from Google Fonts. Made sure it was linked in the HTML head as well as Open Sans. */
+  font-family: 'Baloo 2','Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
